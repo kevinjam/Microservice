@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrderManifest>
+    <Version>
+        <Manifest>1.0</Manifest>
+        <Program>WISC.exe 4.11.24.269</Program>
+    </Version>
+    <OrderId>643fd17e-49ed-4eff-b6f1-bdd22bc41ea1</OrderId>
+    <Patient>
+        <Id>
+            <Value>13116900216</Value>
+            <Type>reference.identificationNumber.norwegian.birthNumber</Type>
+        </Id>
+        <Name>Line2 Danser</Name>
+        <Address>
+            <StreetAdr>Numedalsveien</StreetAdr>
+            <City></City>
+            <Country></Country>
+            <PostalCode>3602</PostalCode>
+            <TeleAddress Type="tel">30303030</TeleAddress>
+            <TeleAddress Type="mailto">epost@line.dance</TeleAddress>
+        </Address>
+    </Patient>
+    <Requester>
+        <Hcp>
+            <Inst>
+                <Id>
+                    <Value>919479779</Value>
+                    <Type>reference.identificationNumber.norwegian.organizationNumber</Type>
+                </Id>
+                <Name>Dips Joy</Name>
+            </Inst>
+            <Dept>
+                <Name></Name>
+            </Dept>
+            <Person>
+                <Name>Emma Regina Win</Name>
+            </Person>
+        </Hcp>
+    </Requester>
+    <ResponsibleHcp>
+        <Hcp>
+            <Inst>
+                <Id>
+                    <Value>919479779</Value>
+                    <Type>reference.identificationNumber.norwegian.organizationNumber</Type>
+                </Id>
+                <Name>Dips Joy</Name>
+            </Inst>
+            <Dept>
+                <Name></Name>
+            </Dept>
+            <Person>
+                <Name>Emma Regina Win</Name>
+            </Person>
+        </Hcp>
+        <Role></Role>
+    </ResponsibleHcp>
+    <Command Name="PlannedSaveAndClose" StartMode="LabRequisition"/>
+    <Response>
+        <ErrorCode></ErrorCode>
+        <ErrorMessage></ErrorMessage>
+        <Narrative>B-Hemoglobin; B-Leukocytter</Narrative>
+        <PlannedOrders>
+            <NewOrders>
+                <OrderInfo>
+                    <OrderId>643fd17e-49ed-4eff-b6f1-bdd22bc41ea1</OrderId>
+                    <OrderType>labrequisition</OrderType>
+                    <PlannedDateTime>2020-04-27T22:00:00.000Z</PlannedDateTime>
+                </OrderInfo>
+            </NewOrders>
+        </PlannedOrders>
+    </Response>
+    <Messages>
+        <Message>
+            <Content>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gUHJvZHVjZWQgYnkgRElQUyBJbnRlcmFjdG9yIFNtYXJ0IENsaWVudCBhcHBsaWNhdGlvbiB2ZXJzaW9uIDQuMTEuMjQuMjY5IC0tPg0KPE1lc3NhZ2UgeG1sbnM9Imh0dHA6Ly93d3cua2l0aC5uby94bWxzdGRzL3Jla3Zpc2lzam9uLzIwMDUtMDUtMjAiIHhtbG5zOmtpdGg9Imh0dHA6Ly93d3cua2l0aC5uby94bWxzdGRzIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLnhzZCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3LmtpdGgubm8veG1sc3Rkcy9yZWt2aXNpc2pvbi8yMDA1LTA1LTIwIFJla3Zpc2lzam9uLXYxNC54c2QiPg0KCTxUeXBlIFY9IlIiIEROPSJSZWt2aXNpc2pvbiIvPg0KCTxNc2dWZXJzaW9uPnYxLjQgMjAwNS0wNS0yMDwvTXNnVmVyc2lvbj4NCgk8TUlHdmVyc2lvbj52MS40IDIwMDUtMDUtMjA8L01JR3ZlcnNpb24+DQoJPEdlbkRhdGUgVj0iMjAyMC0wNC0yOFQxMDowNjo1NSIvPg0KCTxNc2dJZD5EMjQ3ODdDNi0xNkY0LTRBQTItOTA5Ni01MTM3NTlGOTIxRDU8L01zZ0lkPg0KCTxTZXJ2UmVxPg0KCQk8U2VydlR5cGUgVj0iTiIgRE49Ik55IiA+PC9TZXJ2VHlwZT4NCgkJPElzc3VlRGF0ZSBWPSIyMDIwLTA0LTI4VDEwOjA1OjQ3Ii8+DQoJCTxBY2sgVj0iSiIgRE49IkphIi8+DQoJCTxNc2dEZXNjciBWPSJDTElOIiBETj0iS2xpbmlzayBramVtaSIgPjwvTXNnRGVzY3I+DQoJCTxJZD44Q0JBQzlGOC02MDBELTQzM0QtODVGNi00RDY5OTNFNDE4MEE8L0lkPg0KCQkNCgkJPFJlcXVlc3RlZFByaW9SZXBvcnQgVj0iTk9STSIvPg0KCQk8UGF0aWVudD4NCjxTZXggVj0iMiIgRE49Imt2aW5uZSIgPjwvU2V4Pg0KPERhdGVPZkJpcnRoIFY9IjE5NjktMTEtMTMiID48L0RhdGVPZkJpcnRoPg0KPE5hbWU+TGluZTIgRGFuc2VyPC9OYW1lPg0KPE9mZklkPjEzMTE2OTAwMjE2PC9PZmZJZD4NCjxUeXBlT2ZmSWQgVj0iRk5SIiBETj0iRsO4ZHNlbHNudW1tZXIiID48L1R5cGVPZmZJZD48QWRkcmVzcz48VHlwZSBWPSJQU1QiIEROPSJQb3N0YWRyZXNzZSIgPjwvVHlwZT4NCjxTdHJlZXRBZHI+TnVtZWRhbHN2ZWllbjwvU3RyZWV0QWRyPg0KPFBvc3RhbENvZGU+MzYwMjwvUG9zdGFsQ29kZT48VGVsZUFkZHJlc3MgVj0idGVsOjMwMzAzMDMwIi8+PFRlbGVBZGRyZXNzIFY9Im1haWx0bzplcG9zdEBsaW5lLmRhbmNlIi8+DQo8L0FkZHJlc3M+IDxJbmZJdGVtPjxPYnNlcnZhdGlvbj4NCjxEZXNjcmlwdGlvbj5BbSB0ZXN0aW5nIGR1ZSBkYXRlPC9EZXNjcmlwdGlvbj4NCjwvT2JzZXJ2YXRpb24+PFR5cGUgVj0iT1BQTCIgRE49IktsaW5pc2tlIG9wcGx5c25pbmdlciIgPjwvVHlwZT4NCjwvSW5mSXRlbT4NCjwvUGF0aWVudD4NCgkJPFNlcnZQcm92aWRlcj4NCjxIQ1A+DQo8SW5zdD4NCjxOYW1lPkFrZXJzaHVzIFVuaXZlcnNpdGV0c3N5a2VodXMoQUhVUyk8L05hbWU+DQo8SWQ+OTgzOTcxNjM2PC9JZD4NCjxUeXBlSWQgVj0iRU5IIiBETj0iT3JnYW5pc2Fzam9uc251bW1lcmV0IGkgRW5oZXRzcmVnaXN0ZXIgKEJyw7hubsO4eXN1bmQpIiA+PC9UeXBlSWQ+DQo8L0luc3Q+DQo8L0hDUD4NCjwvU2VydlByb3ZpZGVyPg0KCQk8UmVxdWVzdGVyPg0KPEhDUD4NCjxJbnN0Pg0KPE5hbWU+RGlwcyBKb3k8L05hbWU+DQo8SWQ+OTE5NDc5Nzc5PC9JZD4NCjxUeXBlSWQgVj0icmVmZXJlbmNlLmlkZW50aWZpY2F0aW9uTnVtYmVyLm5vcndlZ2lhbi5vcmdhbml6YXRpb25OdW1iZXIiID48L1R5cGVJZD4NCjxIQ1BlcnNvbj4NCjxOYW1lPkVtbWEgUmVnaW5hIFdpbjwvTmFtZT4NCjwvSENQZXJzb24+DQo8L0luc3Q+DQo8L0hDUD4NCjwvUmVxdWVzdGVyPg0KCQkNCgkJCQkNCgkJDQoJCQ0KCQkNCgkJPFJlcUludmVzdGlnYXRpb24+DQo8U2VydlR5cGUgVj0iTiIgRE49Ik55IiA+PC9TZXJ2VHlwZT4NCjxJbnZlc3RpZ2F0aW9uPg0KPElkIFY9IkhCIiBTPSIyLjE2LjU3OC4xLjEyLjQuMS4xLjgyMTIiIEROPSJCLUhlbW9nbG9iaW4iIE9UPSJCLUhlbW9nbG9iaW4iID48L0lkPg0KPFNwZWMgVj0iRElTQ0lQTElORTpDTElOIiBTPSIyLjE2LjU3OC4xLjEyLjQuMS4xLjgyMTIiIEROPSJNZWRpc2luc2sgYmlva2plbWkiIE9UPSJNZWRpc2luc2sgYmlva2plbWkiID48L1NwZWM+DQo8U3BlYyBWPSJSRUNFSVZJTkdfU1lTVEVNOlNBRklSIiBTPSIyLjE2LjU3OC4xLjEyLjQuMS4xLjgyMTIiIEROPSJTYWZpciBEZWx0cml4IExJUyIgT1Q9IlNhZmlyIERlbHRyaXggTElTIiA+PC9TcGVjPg0KPC9JbnZlc3RpZ2F0aW9uPg0KPEludmVzdGlnYXRpb24+DQo8SWQgVj0iTEVVS08iIFM9IjIuMTYuNTc4LjEuMTIuNC4xLjEuODIxMiIgRE49IkItTGV1a29jeXR0ZXIiIE9UPSJCLUxldWtvY3l0dGVyIiA+PC9JZD4NCjxTcGVjIFY9IkRJU0NJUExJTkU6Q0xJTiIgUz0iMi4xNi41NzguMS4xMi40LjEuMS44MjEyIiBETj0iTWVkaXNpbnNrIGJpb2tqZW1pIiBPVD0iTWVkaXNpbnNrIGJpb2tqZW1pIiA+PC9TcGVjPg0KPFNwZWMgVj0iUkVDRUlWSU5HX1NZU1RFTTpTQUZJUiIgUz0iMi4xNi41NzguMS4xMi40LjEuMS44MjEyIiBETj0iU2FmaXIgRGVsdHJpeCBMSVMiIE9UPSJTYWZpciBEZWx0cml4IExJUyIgPjwvU3BlYz4NCjwvSW52ZXN0aWdhdGlvbj48QW5hbHlzZWRTdWJqZWN0Pg0KPFR5cGU+QmxvZDwvVHlwZT4NCjxJZEJ5UmVxdWVzdGVyPjhDQkFDOUY4LTYwMEQtNDMzRC04NUY2LTRENjk5M0U0MTgwQTwvSWRCeVJlcXVlc3Rlcj48L0FuYWx5c2VkU3ViamVjdD4NCjwvUmVxSW52ZXN0aWdhdGlvbj4NCgk8L1NlcnZSZXE+DQo8L01lc3NhZ2U+DQo=</Content>
+            <MetaData>
+                <MsgId>D24787C6-16F4-4AA2-9096-513759F921D5</MsgId>
+                <DocumentId>8CBAC9F8-600D-433D-85F6-4D6993E4180A</DocumentId>
+                <Format>KithXml</Format>
+                <MsgType V="REQ_LAB" DN=""/>
+                <Status>Save</Status>
+                <Receiver>
+                    <Hcp>
+                        <Inst>
+                            <Id>
+                                <Value>983971636</Value>
+                                <Type>ENH</Type>
+                            </Id>
+                            <Name>Akershus Universitetssykehus(AHUS)</Name>
+                        </Inst>
+                        <Dept>
+                            <Name></Name>
+                        </Dept>
+                        <Person>
+                            <Name></Name>
+                        </Person>
+                    </Hcp>
+                </Receiver>
+                <MsgNarrative>B-Hemoglobin; B-Leukocytter</MsgNarrative>
+            </MetaData>
+        </Message>
+    </Messages>
+</OrderManifest>
